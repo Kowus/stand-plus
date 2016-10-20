@@ -1,0 +1,20 @@
+{
+  "name": "standplus_const",
+  "version": "1.0.0",
+  "description": "Standplus Construction Limited",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Construction Firm",
+    "Building Construction",
+    "Plumbing",
+    "Laying of Tiles",
+    "Painting",
+    "Block manufacturers",
+    "Electrical Installations and Maintenance"
+  ],
+  "author": "Barnabas Nomo",
+  "license": "ISC"
+}
