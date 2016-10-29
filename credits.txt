@@ -21,18 +21,3 @@ Construction Firm Building Construction Plumbing Laying of Tiles Painting Block 
 
 
 
-					
-					
-					<div class="col-md-4 wow fadeInUp templatemo-box" data-wow-delay="0.3s">
-						<i class="fa fa-sort-up" style="opacity: 0;"></i><br><i class="fa fa-font"></i>
-						<h3 class="text-uppercase">Block And Brick Makers</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-							aliqua. Ut enim ad minim veniam, quis nostrud exercitation. </p>
-					</div>
-					
-					<div class="col-md-4 wow fadeInUp templatemo-box" data-wow-delay="0.3s">
-						<i class="fa fa-sort-up" style="opacity: 0;"></i><br><i class="fa fa-plug"></i>
-						<h3 class="text-uppercase">Electrical Installation and maintenance</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-							aliqua. Ut enim ad minim veniam, quis nostrud exercitation. </p>
-					</div>
